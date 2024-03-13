@@ -1,0 +1,17 @@
+
+.header{
+    height: 100px;
+    background: blue;
+}
+.logo{
+ background: orange;
+}
+.header--text{
+    font-size: calc(0.5rem + 3vw);
+}
+.nav{
+    background: aqua;
+}
+.content{
+    background: silver;
+}
