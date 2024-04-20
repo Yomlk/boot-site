@@ -15,3 +15,7 @@
 .content{
     background: silver;
 }
+form{
+    width: 50%;
+    margin: auto !important;
+}
